@@ -1,7 +1,7 @@
-Xbox Release Database
-=====================
+Xbox Database
+=============
 
-An open-source [original Xbox game console](https://en.wikipedia.org/wiki/Xbox_(console)) release metadata archive. This data set was originally collected to track title compatibility on [xemu](httpts://xemu.app), and is growing to become useful for other purposes.
+An open-source [original Xbox game console](https://en.wikipedia.org/wiki/Xbox_(console)) metadata archive. This data set was originally collected to track title compatibility on [xemu](https://xemu.app), and is growing to become useful for other purposes.
 
 **Disclaimer**: All product names, logos, and brands are property of their respective owners. All company, product and service names and images here are for identification purposes only.
 
@@ -18,7 +18,7 @@ Eventually, it will grow to include things like:
 
 Thanks!
 -------
-These data were collected from various places:
+These data were originally collected from various places:
 
 * [Redump Disc Preservation Project](http://redump.org/), for release info
 * [Mobygames](https://www.mobygames.com/), for cover/disc artwork
