@@ -1,7 +1,7 @@
 Xbox Database
 =============
 
-An open-source [original Xbox game console](https://en.wikipedia.org/wiki/Xbox_(console)) metadata archive. This data set was originally collected to track title compatibility on [xemu](https://xemu.app), and is growing to become useful for other purposes.
+An open-source [original Xbox game console](https://en.wikipedia.org/wiki/Xbox_(console)) metadata archive. This data set was originally collected to track title compatibility for [xemu](https://xemu.app), and is growing to become useful for other purposes.
 
 **Disclaimer**: All product names, logos, and brands are property of their respective owners. All company, product and service names and images here are for identification purposes only.
 
