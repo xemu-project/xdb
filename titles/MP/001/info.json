@@ -1,0 +1,24 @@
+{
+    "name": "Myst III: Exile",
+    "title_id": "4d500001",
+    "releases": [
+        {
+            "title_id": "4d500001",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "55530011",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "55530011",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

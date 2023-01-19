@@ -1,0 +1,26 @@
+{
+    "name": "Street Fighter Anniversary Collection",
+    "title_id": "4343000f",
+    "releases": [
+        {
+            "title_id": "4343000f",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4343000f",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4343000f",
+            "region": "Japan, Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4343000f",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

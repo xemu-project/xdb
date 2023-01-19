@@ -1,0 +1,18 @@
+{
+    "name": "Spy vs. Spy",
+    "title_id": "5454007c",
+    "releases": [
+        {
+            "title_id": "5454007c",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "54540084",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Soulcalibur II",
+    "title_id": "4e4d0003",
+    "releases": [
+        {
+            "title_id": "4e4d0003",
+            "region": "USA",
+            "edition": "Original, Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4e4d0003",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4e4d0003",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4e4d0003",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 50
+        },
+        {
+            "title_id": "4e4d0003",
+            "region": "Europe",
+            "edition": "Demo",
+            "disc_id": 51
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "The Hobbit: The Prelude to the Lord of the Rings",
+    "title_id": "56550023",
+    "releases": [
+        {
+            "title_id": "56550023",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "56550023",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

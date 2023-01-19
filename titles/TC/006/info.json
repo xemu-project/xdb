@@ -1,0 +1,30 @@
+{
+    "name": "Dead or Alive 1 Ultimate",
+    "title_id": "54430006",
+    "releases": [
+        {
+            "title_id": "54430006",
+            "region": "USA, Japan",
+            "edition": "Dead or Alive Ultimate, Dead or Alive Ultimate: Platinum Collection",
+            "disc_id": 5
+        },
+        {
+            "title_id": "54430006",
+            "region": "USA, Japan",
+            "edition": "Dead or Alive Ultimate, Dead or Alive Ultimate: Platinum Collection",
+            "disc_id": 6
+        },
+        {
+            "title_id": "54430006",
+            "region": "Europe",
+            "edition": "Dead or Alive Ultimate",
+            "disc_id": 9
+        },
+        {
+            "title_id": "54430006",
+            "region": "Europe",
+            "edition": "Dead or Alive Ultimate",
+            "disc_id": 10
+        }
+    ]
+}

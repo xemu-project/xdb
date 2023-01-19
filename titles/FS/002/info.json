@@ -1,0 +1,34 @@
+{
+    "name": "Otogi: Myth of Demons",
+    "title_id": "46530002",
+    "releases": [
+        {
+            "title_id": "46530002",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Otogi"
+        },
+        {
+            "title_id": "46530002",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2,
+            "name": "Otogi: Myth of Demons"
+        },
+        {
+            "title_id": "46530002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3,
+            "name": "Otogi: Myth of Demons"
+        },
+        {
+            "title_id": "46530002",
+            "region": "Japan",
+            "edition": "Special Pack",
+            "disc_id": 4,
+            "name": "Otogi"
+        }
+    ]
+}

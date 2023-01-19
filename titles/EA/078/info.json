@@ -1,0 +1,48 @@
+{
+    "name": "FIFA Soccer 2005",
+    "title_id": "4541004e",
+    "releases": [
+        {
+            "title_id": "4541004e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541004e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541004e",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4541004e",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541004e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4541004e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 7
+        },
+	{
+	    "title_id": "4541006a",
+	    "region": "Europe",
+	    "edition": "Demo",
+	    "disc_id": 50
+	}
+    ]
+}

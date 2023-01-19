@@ -1,0 +1,18 @@
+{
+    "name": "Test Drive Off-Road: Wide Open",
+    "title_id": "49470001",
+    "releases": [
+        {
+            "title_id": "49470001",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "49470001",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

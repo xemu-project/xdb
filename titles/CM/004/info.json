@@ -1,0 +1,36 @@
+{
+    "name": "Roger Lemerre: La S\u00e9lection des Champions 2003",
+    "title_id": "434d0004",
+    "releases": [
+        {
+            "title_id": "434d0004",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "434d0004",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "434d0004",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "434d0004",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "434d0004",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

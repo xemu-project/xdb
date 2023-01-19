@@ -1,0 +1,24 @@
+{
+    "name": "Judge Dredd: Dredd vs. Death",
+    "title_id": "5656000d",
+    "releases": [
+        {
+            "title_id": "5656000d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5656000d",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "58490007",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

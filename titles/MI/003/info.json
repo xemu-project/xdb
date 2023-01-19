@@ -1,0 +1,18 @@
+{
+    "name": "Tennis Masters Series 2003",
+    "title_id": "4d490003",
+    "releases": [
+        {
+            "title_id": "4d490003",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d490003",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

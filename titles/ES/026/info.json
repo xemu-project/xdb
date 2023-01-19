@@ -1,0 +1,24 @@
+{
+    "name": "Championship Manager 5",
+    "title_id": "4553001a",
+    "releases": [
+        {
+            "title_id": "4553001a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 8
+        },
+        {
+            "title_id": "4553001a",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 9
+        },
+        {
+            "title_id": "4553001a",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 10
+        }
+    ]
+}

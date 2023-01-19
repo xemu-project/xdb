@@ -1,0 +1,18 @@
+{
+    "name": "Backyard Wrestling: Don't Try This at Home",
+    "title_id": "4553000d",
+    "releases": [
+        {
+            "title_id": "4553000d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4553000d",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

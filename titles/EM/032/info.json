@@ -1,0 +1,23 @@
+{
+    "name": "FlatOut 2",
+    "title_id": "454d0020",
+    "releases": [
+        {
+            "title_id": "454d0020",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "454d0020",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5a44019d",
+            "region": "USA",
+            "edition": "Beta"
+        }
+    ]
+}

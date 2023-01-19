@@ -1,0 +1,48 @@
+{
+    "name": "Minority Report: Everybody Runs",
+    "title_id": "41560014",
+    "releases": [
+        {
+            "title_id": "41560014",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41560014",
+            "disc_id": 2
+        },
+        {
+            "title_id": "41560014",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "41560014",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "41560014",
+            "disc_id": 5
+        },
+        {
+            "title_id": "41560014",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "41560014",
+            "disc_id": 7
+        },
+        {
+            "title_id": "41560014",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 8
+        }
+    ]
+}

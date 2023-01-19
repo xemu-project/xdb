@@ -1,0 +1,24 @@
+{
+    "name": "Ninja Gaiden Black",
+    "title_id": "5443000d",
+    "releases": [
+        {
+            "title_id": "5443000d",
+            "region": "Europe",
+            "edition": "Classics",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5443000d",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "5443000d",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

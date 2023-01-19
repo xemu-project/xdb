@@ -1,0 +1,18 @@
+{
+    "name": "Sega GT 2002 + JSRF: Jet Set Radio Future",
+    "title_id": "4d53003d",
+    "releases": [
+        {
+            "title_id": "4d53003d",
+            "region": "USA",
+            "edition": "Bundled with Xbox",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d53003d",
+            "region": "Europe",
+            "edition": "Bundled with Xbox",
+            "disc_id": 5
+        }
+    ]
+}

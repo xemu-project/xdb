@@ -1,0 +1,30 @@
+{
+    "name": "Dead or Alive 3",
+    "title_id": "4d53002d",
+    "releases": [
+        {
+            "title_id": "4d53002d",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 1
+        },
+        {
+            "title_id": "54430001",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "54430001",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "54430001",
+            "region": "Korea",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

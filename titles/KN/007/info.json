@@ -1,0 +1,18 @@
+{
+    "name": "Metal Gear Solid 2: Substance",
+    "title_id": "4b4e0007",
+    "releases": [
+        {
+            "title_id": "4b4e0007",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4b4e0007",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 8
+        }
+    ]
+}

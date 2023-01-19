@@ -1,0 +1,24 @@
+{
+    "name": "The Terminator: Dawn of Fate",
+    "title_id": "49470026",
+    "releases": [
+        {
+            "title_id": "49470026",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "49470026",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "49470026",
+            "region": "Korea",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

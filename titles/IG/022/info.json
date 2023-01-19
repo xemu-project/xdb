@@ -1,0 +1,18 @@
+{
+    "name": "Superman: The Man of Steel",
+    "title_id": "49470016",
+    "releases": [
+        {
+            "title_id": "49470016",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "49470016",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

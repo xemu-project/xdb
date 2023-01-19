@@ -1,0 +1,18 @@
+{
+    "name": "Xiaolin Showdown",
+    "title_id": "4b4e0038",
+    "releases": [
+        {
+            "title_id": "4b4e0038",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4b4e0038",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

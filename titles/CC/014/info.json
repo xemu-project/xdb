@@ -1,0 +1,16 @@
+{
+    "name": "Auto Modellista",
+    "title_id": "4343000e",
+    "releases": [
+        {
+            "title_id": "4343000e",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4343000e",
+            "region": "USA, Japan",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

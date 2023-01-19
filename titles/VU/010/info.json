@@ -1,0 +1,24 @@
+{
+    "name": "Metal Arms: Glitch in the System",
+    "title_id": "5655000a",
+    "releases": [
+        {
+            "title_id": "5655000a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5655000a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5655002e",
+            "region": "USA, Europe",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

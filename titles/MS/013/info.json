@@ -1,0 +1,30 @@
+{
+    "name": "Fable",
+    "title_id": "4d53000d",
+    "releases": [
+        {
+            "title_id": "4d53000d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d53000d",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4d53000d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4d53000d",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

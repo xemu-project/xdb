@@ -1,0 +1,18 @@
+{
+    "name": "Tecmo Classic Arcade",
+    "title_id": "5443000e",
+    "releases": [
+        {
+            "title_id": "5443000e",
+            "region": "USA, Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5443000e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

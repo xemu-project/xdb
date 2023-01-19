@@ -1,0 +1,18 @@
+{
+    "name": "Narc",
+    "title_id": "4d570024",
+    "releases": [
+        {
+            "title_id": "4d570024",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d570024",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

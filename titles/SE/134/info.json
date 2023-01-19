@@ -1,0 +1,24 @@
+{
+    "name": "Shadow The Hedgehog",
+    "title_id": "53450086",
+    "releases": [
+        {
+            "title_id": "53450086",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "53450086",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "53450086",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 9
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "4x4 Evo 2",
+    "title_id": "54540001",
+    "releases": [
+        {
+            "title_id": "54540001",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "54540001",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

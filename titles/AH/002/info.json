@@ -1,0 +1,18 @@
+{
+    "name": "Playboy: The Mansion",
+    "title_id": "41480002",
+    "releases": [
+        {
+            "title_id": "41480002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "41480002",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

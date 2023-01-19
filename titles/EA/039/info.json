@@ -1,0 +1,18 @@
+{
+    "name": "NBA Street Vol. 2",
+    "title_id": "45410027",
+    "releases": [
+        {
+            "title_id": "45410027",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410027",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

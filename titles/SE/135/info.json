@@ -1,0 +1,24 @@
+{
+    "name": "Sonic Riders",
+    "title_id": "53450087",
+    "releases": [
+        {
+            "title_id": "53450087",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 9
+        },
+        {
+            "title_id": "53450087",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 10
+        },
+        {
+            "title_id": "53450087",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 11
+        }
+    ]
+}

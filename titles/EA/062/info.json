@@ -1,0 +1,42 @@
+{
+    "name": "The Lord of the Rings: The Return of the King",
+    "title_id": "4541003e",
+    "releases": [
+        {
+            "title_id": "4541003e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541003e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541003e",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541003e",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4541003e",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541003e",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

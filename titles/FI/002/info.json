@@ -1,0 +1,18 @@
+{
+    "name": "Futurama",
+    "title_id": "46490002",
+    "releases": [
+        {
+            "title_id": "46490002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "56550008",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

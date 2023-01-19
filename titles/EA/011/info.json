@@ -1,0 +1,36 @@
+{
+    "name": "2002 FIFA World Cup",
+    "title_id": "4541000b",
+    "releases": [
+        {
+            "title_id": "4541000b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541000b",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541000b",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541000b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "4541000b",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 9
+        }
+    ]
+}

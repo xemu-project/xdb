@@ -1,0 +1,18 @@
+{
+    "name": "Loons: The Fight for Fame",
+    "title_id": "49470006",
+    "releases": [
+        {
+            "title_id": "49470006",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "49470006",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

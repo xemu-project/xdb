@@ -1,0 +1,18 @@
+{
+    "name": "Worms 4: Mayhem",
+    "title_id": "434d0052",
+    "releases": [
+        {
+            "title_id": "434d0052",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d4a0017",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

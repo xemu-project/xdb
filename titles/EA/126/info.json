@@ -1,0 +1,18 @@
+{
+    "name": "Tiger Woods PGA Tour 06",
+    "title_id": "4541007e",
+    "releases": [
+        {
+            "title_id": "4541007e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541007e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

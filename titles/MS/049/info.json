@@ -1,0 +1,24 @@
+{
+    "name": "Kung Fu Chaos",
+    "title_id": "4d530031",
+    "releases": [
+        {
+            "title_id": "4d530031",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4d530031",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d530031",
+            "region": "USA, Asia",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

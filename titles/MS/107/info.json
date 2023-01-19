@@ -1,0 +1,18 @@
+{
+    "name": "MechAssault 2: Lone Wolf",
+    "title_id": "4d53006b",
+    "releases": [
+        {
+            "title_id": "4d53006b",
+            "region": "World",
+            "edition": "Original, Limited Edition",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4d5300ca",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

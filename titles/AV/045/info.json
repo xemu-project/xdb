@@ -1,0 +1,18 @@
+{
+    "name": "Tony Hawk's Underground",
+    "title_id": "4156002d",
+    "releases": [
+        {
+            "title_id": "4156002d",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4156002d",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 2
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "ESPN NHL Hockey",
+    "title_id": "53450026",
+    "releases": [
+        {
+            "title_id": "53450026",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5345002d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

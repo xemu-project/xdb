@@ -1,0 +1,24 @@
+{
+    "name": "Mortal Kombat: Deadly Alliance",
+    "title_id": "4d57000c",
+    "releases": [
+        {
+            "title_id": "4d57000c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 20
+        },
+        {
+            "title_id": "4d57000c",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d57000c",
+            "region": "Germany",
+            "edition": "Original, Classics",
+            "disc_id": 3
+        }
+    ]
+}

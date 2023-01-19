@@ -1,0 +1,30 @@
+{
+    "name": "Panzer Dragoon Orta",
+    "title_id": "4947002b",
+    "releases": [
+        {
+            "title_id": "4947002b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "53450007",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "53450007",
+            "region": "Japan",
+            "edition": "Platinum Collection, Genteiban",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5345001c",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 1
+        }
+    ]
+}

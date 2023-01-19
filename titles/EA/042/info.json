@@ -1,0 +1,48 @@
+{
+    "name": "Freedom Fighters",
+    "title_id": "4541002a",
+    "releases": [
+        {
+            "title_id": "4541002a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4541002a",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "4541002a",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 8
+        },
+        {
+            "title_id": "4541002a",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 9
+        },
+        {
+            "title_id": "4541002a",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 10
+        },
+        {
+            "title_id": "4541002e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541002e",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

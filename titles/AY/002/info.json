@@ -1,0 +1,18 @@
+{
+    "name": "Stubbs the Zombie in Rebel Without a Pulse",
+    "title_id": "41590002",
+    "releases": [
+        {
+            "title_id": "41590002",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41590002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

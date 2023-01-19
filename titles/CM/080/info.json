@@ -1,0 +1,24 @@
+{
+    "name": "TOCA Race Driver 3",
+    "title_id": "434d0050",
+    "releases": [
+        {
+            "title_id": "434d0050",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "434d0050",
+            "region": "Australia",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "434d0050",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

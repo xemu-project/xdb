@@ -1,0 +1,24 @@
+{
+    "name": "Digimon Battle Chronicle",
+    "title_id": "42410001",
+    "releases": [
+        {
+            "title_id": "42410001",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "42410001",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "42410001",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

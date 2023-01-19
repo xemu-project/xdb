@@ -1,0 +1,18 @@
+{
+    "name": "WWE Raw 2",
+    "title_id": "5451000d",
+    "releases": [
+        {
+            "title_id": "5451000d",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5451000d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

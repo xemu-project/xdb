@@ -1,0 +1,18 @@
+{
+    "name": "ToeJam & Earl III: Mission to Earth",
+    "title_id": "5345000f",
+    "releases": [
+        {
+            "title_id": "5345000f",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5345000f",
+            "region": "Europe",
+            "edition": "Original, Promo",
+            "disc_id": 4
+        }
+    ]
+}

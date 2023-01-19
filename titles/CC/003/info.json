@@ -1,0 +1,28 @@
+{
+    "name": "Dino Crisis 3",
+    "title_id": "43430003",
+    "releases": [
+        {
+            "title_id": "43430003",
+            "disc_id": 1
+        },
+        {
+            "title_id": "43430003",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "43430003",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "43430003",
+            "region": "USA, Asia",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

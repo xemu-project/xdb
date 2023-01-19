@@ -1,0 +1,18 @@
+{
+    "name": "V-Rally 3",
+    "title_id": "49470034",
+    "releases": [
+        {
+            "title_id": "49470034",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "49470034",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

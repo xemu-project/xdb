@@ -1,0 +1,18 @@
+{
+    "name": "Circus Maximus: Chariot Wars",
+    "title_id": "45430001",
+    "releases": [
+        {
+            "title_id": "45430001",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5451000c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

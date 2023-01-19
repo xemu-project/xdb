@@ -1,0 +1,18 @@
+{
+    "name": "NHL Rivals 2004",
+    "title_id": "4d53004e",
+    "releases": [
+        {
+            "title_id": "4d53004e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d53004e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

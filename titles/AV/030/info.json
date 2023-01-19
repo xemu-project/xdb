@@ -1,0 +1,18 @@
+{
+    "name": "X-Men Legends",
+    "title_id": "4156001e",
+    "releases": [
+        {
+            "title_id": "4156001e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4156001e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

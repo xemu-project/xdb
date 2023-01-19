@@ -1,0 +1,18 @@
+{
+    "name": "TransWorld Surf",
+    "title_id": "49470005",
+    "releases": [
+        {
+            "title_id": "49470005",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "49470005",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Star Wars: Episode III: Revenge of the Sith",
+    "title_id": "4c410017",
+    "releases": [
+        {
+            "title_id": "4c410017",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4c410017",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4c410017",
+            "region": "Germany",
+            "edition": "Promo",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4c410017",
+            "region": "USA",
+            "edition": "Original, Platinum Hits",
+            "disc_id": 5
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "America's Army: Rise of a Soldier",
+    "title_id": "55530043",
+    "releases": [
+        {
+            "title_id": "55530043",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "55530043",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

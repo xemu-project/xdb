@@ -1,0 +1,24 @@
+{
+    "name": "The House of the Dead III",
+    "title_id": "53450008",
+    "releases": [
+        {
+            "title_id": "53450008",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "53450008",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "53450008",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

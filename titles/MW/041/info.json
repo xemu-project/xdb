@@ -1,0 +1,18 @@
+{
+    "name": "Mortal Kombat: Shaolin Monks",
+    "title_id": "4d570029",
+    "releases": [
+        {
+            "title_id": "4d570029",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d570029",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

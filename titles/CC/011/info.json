@@ -1,0 +1,24 @@
+{
+    "name": "Pro Cast: Sports Fishing Game",
+    "title_id": "4343000b",
+    "releases": [
+        {
+            "title_id": "4343000b",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4343000b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4343000b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

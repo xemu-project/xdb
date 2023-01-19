@@ -1,0 +1,18 @@
+{
+    "name": "IndyCar Series 2005",
+    "title_id": "434d0024",
+    "releases": [
+        {
+            "title_id": "434d0024",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "434d0024",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

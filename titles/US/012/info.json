@@ -1,0 +1,48 @@
+{
+    "name": "Tom Clancy's Splinter Cell",
+    "title_id": "5553000c",
+    "releases": [
+        {
+            "title_id": "5553000c",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5553000c",
+            "region": "USA",
+            "edition": "Original, Platinum Hits, Tom Clancy's Classic Trilogy",
+            "disc_id": 9
+        },
+        {
+            "title_id": "5553000c",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 10
+        },
+        {
+            "title_id": "5553000c",
+            "region": "Korea",
+            "edition": "Original",
+            "disc_id": 12
+        },
+        {
+            "title_id": "5553000c",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 13
+        },
+        {
+            "title_id": "5553000c",
+            "region": "USA",
+            "edition": "Toys R Us Demo",
+            "disc_id": 50
+        },
+        {
+            "title_id": "5553000c",
+            "region": "Europe",
+            "edition": "Classics",
+            "disc_id": 52
+        }
+    ]
+}

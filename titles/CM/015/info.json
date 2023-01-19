@@ -1,0 +1,36 @@
+{
+    "name": "LMA Manager 2004",
+    "title_id": "434d000f",
+    "releases": [
+        {
+            "title_id": "434d000f",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "434d000f",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "434d000f",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "434d000f",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "434d000f",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

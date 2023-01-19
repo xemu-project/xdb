@@ -1,0 +1,132 @@
+{
+    "name": "Club Football",
+    "title_id": "434d0021",
+    "releases": [
+        {
+            "title_id": "434d0021",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Rangers FC"
+        },
+        {
+            "title_id": "434d0018",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Celtic FC"
+        },
+        {
+            "title_id": "434d0023",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Hamburger SV"
+        },
+        {
+            "title_id": "434d0013",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Arsenal"
+        },
+        {
+            "title_id": "434d000c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2,
+            "name": "Club Football: AC Milan"
+        },
+        {
+            "title_id": "434d0019",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Chelsea FC"
+        },
+        {
+            "title_id": "434d001e",
+            "region": "UK",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Liverpool FC"
+        },
+        {
+            "title_id": "434d001f",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Liverpool FC"
+        },
+        {
+            "title_id": "434d001c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Juventus"
+        },
+        {
+            "title_id": "434d0015",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: FC Barcelona"
+        },
+        {
+            "title_id": "434d0020",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2,
+            "name": "Club Football: Manchester United"
+        },
+        {
+            "title_id": "434d0014",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Aston Villa"
+        },
+        {
+            "title_id": "434d001d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Leeds United"
+        },
+        {
+            "title_id": "434d0022",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Real Madrid"
+        },
+        {
+            "title_id": "434d0016",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: FC Bayern M\u00fcnchen"
+        },
+        {
+            "title_id": "434d001b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: FC Internazionale"
+        },
+        {
+            "title_id": "434d0012",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Ajax Amsterdam"
+        },
+        {
+            "title_id": "434d0017",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 1,
+            "name": "Club Football: Borussia Dortmund"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Crazy Taxi 3: High Roller",
+    "title_id": "53450004",
+    "releases": [
+        {
+            "title_id": "53450004",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "53450004",
+            "region": "Japan",
+            "edition": "Original, Platinum Collection",
+            "disc_id": 2
+        },
+        {
+            "title_id": "53450019",
+            "region": "Japan",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

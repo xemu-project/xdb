@@ -1,0 +1,24 @@
+{
+    "name": "SSX Tricky",
+    "title_id": "45410004",
+    "releases": [
+        {
+            "title_id": "45410004",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410004",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410004",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 3
+        }
+    ]
+}

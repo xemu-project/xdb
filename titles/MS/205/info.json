@@ -1,0 +1,18 @@
+{
+    "name": "Halo 2 Multiplayer Map Pack",
+    "title_id": "4d5300cd",
+    "releases": [
+        {
+            "title_id": "4d5300cd",
+            "region": "USA, Japan",
+            "edition": "Original",
+            "disc_id": 70
+        },
+        {
+            "title_id": "4d5380cd",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 0
+        }
+    ]
+}

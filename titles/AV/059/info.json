@@ -1,0 +1,24 @@
+{
+    "name": "DreamWorks Madagascar",
+    "title_id": "4156003b",
+    "releases": [
+        {
+            "title_id": "4156003b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4156003b",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4156003b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

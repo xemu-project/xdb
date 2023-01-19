@@ -1,0 +1,42 @@
+{
+    "name": "UEFA Euro 2004: Portugal",
+    "title_id": "4541004a",
+    "releases": [
+        {
+            "title_id": "4541004a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "4541004a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 9
+        },
+        {
+            "title_id": "4541004a",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 10
+        },
+        {
+            "title_id": "4541004a",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 11
+        },
+        {
+            "title_id": "4541004a",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 12
+        },
+        {
+            "title_id": "4541004a",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 13
+        }
+    ]
+}

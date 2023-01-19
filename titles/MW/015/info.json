@@ -1,0 +1,18 @@
+{
+    "name": "RedCard 20-03",
+    "title_id": "4d57000f",
+    "releases": [
+        {
+            "title_id": "4d57000f",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d57000f",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Brothers in Arms: Road to Hill 30",
+    "title_id": "5553003c",
+    "releases": [
+        {
+            "title_id": "5553003c",
+            "region": "World",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5553003c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5553005b",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

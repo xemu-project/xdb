@@ -1,0 +1,24 @@
+{
+    "name": "Sonic Heroes",
+    "title_id": "5345002b",
+    "releases": [
+        {
+            "title_id": "5345002b",
+            "region": "USA",
+            "edition": "Platinum Family Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5345002b",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5345002b",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 4
+        }
+    ]
+}

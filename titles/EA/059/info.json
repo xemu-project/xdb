@@ -1,0 +1,42 @@
+{
+    "name": "FIFA Football 2004",
+    "title_id": "4541003b",
+    "releases": [
+        {
+            "title_id": "4541003b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541003b",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541003b",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541003b",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4541003b",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541003b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

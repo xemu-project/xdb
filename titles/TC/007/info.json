@@ -1,0 +1,30 @@
+{
+    "name": "Dead or Alive Xtreme Beach Volleyball",
+    "title_id": "54430007",
+    "releases": [
+        {
+            "title_id": "54430007",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "54430007",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "54430007",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 8
+        },
+        {
+            "title_id": "54430007",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 10
+        }
+    ]
+}

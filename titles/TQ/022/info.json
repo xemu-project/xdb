@@ -1,0 +1,30 @@
+{
+    "name": "MotoGP 2",
+    "title_id": "54510016",
+    "releases": [
+        {
+            "title_id": "54510016",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "54510016",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "54510016",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "54510016",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 8
+        }
+    ]
+}

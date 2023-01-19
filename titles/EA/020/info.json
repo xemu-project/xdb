@@ -1,0 +1,18 @@
+{
+    "name": "F1 2002",
+    "title_id": "45410014",
+    "releases": [
+        {
+            "title_id": "45410014",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410014",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Dead Man's Hand",
+    "title_id": "49470027",
+    "releases": [
+        {
+            "title_id": "49470027",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "49470040",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

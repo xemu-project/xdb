@@ -1,0 +1,24 @@
+{
+    "name": "Nickelodeon SpongeBob SquarePants: Lights, Camera, Pants!",
+    "title_id": "545100fa",
+    "releases": [
+        {
+            "title_id": "545100fa",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "545100fa",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "545100fa",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

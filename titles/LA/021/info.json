@@ -1,0 +1,30 @@
+{
+    "name": "Mercenaries",
+    "title_id": "4c410015",
+    "releases": [
+        {
+            "title_id": "4c410015",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4c410015",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4c410015",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4c410015",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

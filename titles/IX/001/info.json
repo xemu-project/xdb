@@ -1,0 +1,18 @@
+{
+    "name": "The Bard's Tale",
+    "title_id": "49580001",
+    "releases": [
+        {
+            "title_id": "49580001",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "49580001",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

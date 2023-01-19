@@ -1,0 +1,18 @@
+{
+    "name": "NASCAR 2005: Chase for the Cup",
+    "title_id": "45410053",
+    "releases": [
+        {
+            "title_id": "45410053",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410053",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

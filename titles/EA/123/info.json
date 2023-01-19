@@ -1,0 +1,48 @@
+{
+    "name": "Need for Speed: Most Wanted",
+    "title_id": "4541007b",
+    "releases": [
+        {
+            "title_id": "4541007b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541007b",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541007b",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541007b",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4541007b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "4541007b",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 11
+        },
+        {
+            "title_id": "45410088",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

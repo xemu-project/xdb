@@ -1,0 +1,30 @@
+{
+    "name": "Star Wars: Battlefront II",
+    "title_id": "4c41001a",
+    "releases": [
+        {
+            "title_id": "4c41001a",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4c41001a",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4c41001a",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4c41001a",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 4
+        }
+    ]
+}

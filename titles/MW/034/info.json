@@ -1,0 +1,18 @@
+{
+    "name": "Gauntlet: Seven Sorrows",
+    "title_id": "4d570022",
+    "releases": [
+        {
+            "title_id": "4d570022",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d570033",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

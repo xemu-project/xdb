@@ -1,0 +1,24 @@
+{
+    "name": "Black",
+    "title_id": "45410083",
+    "releases": [
+        {
+            "title_id": "45410083",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410083",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410083",
+            "region": "Europe, Australia",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

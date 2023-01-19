@@ -1,0 +1,18 @@
+{
+    "name": "Spawn: Armageddon",
+    "title_id": "4e4d000c",
+    "releases": [
+        {
+            "title_id": "4e4d000c",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4e4d000c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

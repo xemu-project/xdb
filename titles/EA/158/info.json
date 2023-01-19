@@ -1,0 +1,30 @@
+{
+    "name": "Need for Speed: Carbon",
+    "title_id": "4541009e",
+    "releases": [
+        {
+            "title_id": "4541009e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541009e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541009e",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4541009e",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

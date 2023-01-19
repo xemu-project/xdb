@@ -1,0 +1,18 @@
+{
+    "name": "Curse: The Eye of Isis",
+    "title_id": "57450005",
+    "releases": [
+        {
+            "title_id": "57450005",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "57450005",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

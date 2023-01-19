@@ -1,0 +1,42 @@
+{
+    "name": "Medal of Honor: Frontline",
+    "title_id": "4541001a",
+    "releases": [
+        {
+            "title_id": "4541001a",
+            "region": "USA",
+            "edition": "Original, Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541001a",
+            "region": "Europe",
+            "edition": "Original, Classics, ESC Escape 03 Xbox Charity Pack",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541001a",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541001a",
+            "region": "Germany",
+            "edition": "Classics",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4541001a",
+            "region": "Italy",
+            "edition": "Classics",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541001a",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

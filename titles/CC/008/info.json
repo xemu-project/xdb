@@ -1,0 +1,24 @@
+{
+    "name": "Capcom vs. SNK 2 EO",
+    "title_id": "43430008",
+    "releases": [
+        {
+            "title_id": "43430008",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "43430008",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "43430008",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

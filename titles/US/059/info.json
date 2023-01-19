@@ -1,0 +1,18 @@
+{
+    "name": "Prince of Persia: Warrior Within",
+    "title_id": "5553003b",
+    "releases": [
+        {
+            "title_id": "5553003b",
+            "region": "USA, Europe",
+            "edition": "Original, Classics",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5553003b",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

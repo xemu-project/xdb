@@ -1,0 +1,30 @@
+{
+    "name": "NFL Fever 2003",
+    "title_id": "4d530028",
+    "releases": [
+        {
+            "title_id": "4d530028",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d530028",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4d530028",
+            "region": "Europe",
+            "edition": "Original, Bundled with Xbox",
+            "disc_id": 23
+        },
+        {
+            "title_id": "4d530037",
+            "region": "USA",
+            "edition": "Xbox Live Beta Starter Kit",
+            "disc_id": 2
+        }
+    ]
+}

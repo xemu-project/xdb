@@ -1,0 +1,30 @@
+{
+    "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "title_id": "55530038",
+    "releases": [
+        {
+            "title_id": "55530038",
+            "region": "USA, Europe",
+            "edition": "Original, Platinum Hits",
+            "disc_id": 2
+        },
+        {
+            "title_id": "55530038",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "55530038",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 51
+        },
+        {
+            "title_id": "55530041",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

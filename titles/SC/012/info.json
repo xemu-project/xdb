@@ -1,0 +1,18 @@
+{
+    "name": "Conflict: Global Storm",
+    "title_id": "5343000c",
+    "releases": [
+        {
+            "title_id": "5343000c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5343000c",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

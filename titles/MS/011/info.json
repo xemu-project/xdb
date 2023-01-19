@@ -1,0 +1,18 @@
+{
+    "name": "NBA Inside Drive 2004",
+    "title_id": "4d53000b",
+    "releases": [
+        {
+            "title_id": "4d53000b",
+            "region": "USA, Asia",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d53000b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

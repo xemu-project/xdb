@@ -1,0 +1,18 @@
+{
+    "name": "SX Superstar",
+    "title_id": "41430010",
+    "releases": [
+        {
+            "title_id": "41430010",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41430010",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

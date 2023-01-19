@@ -1,0 +1,30 @@
+{
+    "name": "Blinx: The Time Sweeper",
+    "title_id": "4d530013",
+    "releases": [
+        {
+            "title_id": "4d530013",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d530013",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4d530013",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d530013",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Tom Clancy's Rainbow Six 3: Black Arrow",
+    "title_id": "55530037",
+    "releases": [
+        {
+            "title_id": "55530037",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "55530037",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

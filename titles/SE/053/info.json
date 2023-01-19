@@ -1,0 +1,18 @@
+{
+    "name": "Worms Forts: Under Siege",
+    "title_id": "53450035",
+    "releases": [
+        {
+            "title_id": "53450035",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "53450035",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

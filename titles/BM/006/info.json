@@ -1,0 +1,18 @@
+{
+    "name": "Carmen Sandiego: The Secret of the Stolen Drums",
+    "title_id": "424d0006",
+    "releases": [
+        {
+            "title_id": "424d0006",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "424d0006",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

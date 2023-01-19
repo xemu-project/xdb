@@ -1,0 +1,54 @@
+{
+    "name": "TOCA Race Driver",
+    "title_id": "434d0002",
+    "releases": [
+        {
+            "title_id": "434d0002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "434d0002",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "434d0002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "434d0002",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "434d000e",
+            "region": "Europe",
+            "edition": "Rerelease",
+            "disc_id": 1
+        },
+        {
+            "title_id": "434d000e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "434d000e",
+            "region": "Italy",
+            "edition": "Rerelease",
+            "disc_id": 4
+        },
+        {
+            "title_id": "434d000e",
+            "region": "Australia",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Harry Potter and the Chamber of Secrets",
+    "title_id": "4541000e",
+    "releases": [
+        {
+            "title_id": "4541000e",
+            "region": "USA",
+            "edition": "Platinum Family Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541000e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

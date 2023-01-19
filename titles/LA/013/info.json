@@ -1,0 +1,36 @@
+{
+    "name": "Armed and Dangerous",
+    "title_id": "4c41000d",
+    "releases": [
+        {
+            "title_id": "4c41000d",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4c41000d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4c41000d",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4c41000d",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4c41000d",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

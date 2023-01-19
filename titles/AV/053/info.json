@@ -1,0 +1,24 @@
+{
+    "name": "Ultimate Spider-Man",
+    "title_id": "41560035",
+    "releases": [
+        {
+            "title_id": "41560035",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41560035",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "41560035",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

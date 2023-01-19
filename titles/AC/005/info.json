@@ -1,0 +1,18 @@
+{
+    "name": "Vexx",
+    "title_id": "41430005",
+    "releases": [
+        {
+            "title_id": "41430005",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "41430005",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

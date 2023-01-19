@@ -1,0 +1,18 @@
+{
+    "name": "Open Season",
+    "title_id": "55530061",
+    "releases": [
+        {
+            "title_id": "55530061",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "55530061",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

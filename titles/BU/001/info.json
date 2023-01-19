@@ -1,0 +1,18 @@
+{
+    "name": "Double-S.T.E.A.L",
+    "title_id": "42550001",
+    "releases": [
+        {
+            "title_id": "42550001",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "42550002",
+            "region": "Japan",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

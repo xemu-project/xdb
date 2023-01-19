@@ -1,0 +1,18 @@
+{
+    "name": "NHL 2005",
+    "title_id": "4541004f",
+    "releases": [
+        {
+            "title_id": "4541004f",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541004f",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

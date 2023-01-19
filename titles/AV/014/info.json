@@ -1,0 +1,30 @@
+{
+    "name": "True Crime: Streets of LA",
+    "title_id": "4156000e",
+    "releases": [
+        {
+            "title_id": "4156000e",
+            "region": "USA, Asia",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4156000e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "4156000e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 8
+        },
+        {
+            "title_id": "4156000e",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 9
+        }
+    ]
+}

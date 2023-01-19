@@ -1,0 +1,22 @@
+{
+    "name": "Robin Hood: Defender of the Crown",
+    "title_id": "4343000c",
+    "releases": [
+        {
+            "title_id": "4343000c",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4343000c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4343000c",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

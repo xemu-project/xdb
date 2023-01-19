@@ -1,0 +1,24 @@
+{
+    "name": "Colin McRae Rally 3",
+    "title_id": "434d0001",
+    "releases": [
+        {
+            "title_id": "434d0001",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "434d0001",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "434d0001",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Prince of Persia: The Sands of Time",
+    "title_id": "5553001d",
+    "releases": [
+        {
+            "title_id": "5553001d",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5553001d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

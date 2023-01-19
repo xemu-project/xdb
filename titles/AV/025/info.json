@@ -1,0 +1,22 @@
+{
+    "name": "Cabela's Dangerous Hunts",
+    "title_id": "41560019",
+    "releases": [
+        {
+            "title_id": "41560019",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41560019",
+            "disc_id": 2
+        },
+        {
+            "title_id": "41560019",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

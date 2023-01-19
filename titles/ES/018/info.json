@@ -1,0 +1,48 @@
+{
+    "name": "Hitman: Contracts",
+    "title_id": "45530012",
+    "releases": [
+        {
+            "title_id": "45530012",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45530012",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "45530012",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "45530012",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "45530012",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "45530012",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 8
+        },
+        {
+            "title_id": "45530012",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 9
+        }
+    ]
+}

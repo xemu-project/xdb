@@ -1,0 +1,36 @@
+{
+    "name": "Battlefield 2: Modern Combat",
+    "title_id": "45410062",
+    "releases": [
+        {
+            "title_id": "45410062",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410062",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410062",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541007f",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 50
+        },
+        {
+            "title_id": "4541007f",
+            "region": "Australia",
+            "edition": "Demo",
+            "disc_id": 51
+        }
+    ]
+}

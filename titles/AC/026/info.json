@@ -1,0 +1,24 @@
+{
+    "name": "Gladiator: Sword of Vengeance",
+    "title_id": "4143001a",
+    "releases": [
+        {
+            "title_id": "4143001a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4143001a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4143001a",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

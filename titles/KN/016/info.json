@@ -1,0 +1,24 @@
+{
+    "name": "WTA Tour Tennis Pro Evolution",
+    "title_id": "4b4e0010",
+    "releases": [
+        {
+            "title_id": "4b4e0010",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4b4e0010",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4b4e0010",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

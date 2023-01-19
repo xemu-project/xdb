@@ -1,0 +1,18 @@
+{
+    "name": "The Italian Job",
+    "title_id": "4553000e",
+    "releases": [
+        {
+            "title_id": "4553000e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4553000e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

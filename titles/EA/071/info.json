@@ -1,0 +1,24 @@
+{
+    "name": "Need for Speed: Underground",
+    "title_id": "45410047",
+    "releases": [
+        {
+            "title_id": "45410047",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410047",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410047",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

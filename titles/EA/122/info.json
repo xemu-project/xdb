@@ -1,0 +1,30 @@
+{
+    "name": "NBA Live 06",
+    "title_id": "4541007a",
+    "releases": [
+        {
+            "title_id": "4541007a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541007a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541007a",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541007a",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

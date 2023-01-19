@@ -1,0 +1,27 @@
+{
+    "name": "Otogi 2: Immortal Warriors",
+    "title_id": "46530004",
+    "releases": [
+        {
+            "title_id": "46530004",
+            "region": "Japan",
+            "edition": "Special Pack",
+            "disc_id": 1,
+            "name": "Otogi: Hyakki Toubatsu Emaki"
+        },
+        {
+            "title_id": "46530004",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2,
+            "name": "Otogi 2: Immortal Warriors"
+        },
+        {
+            "title_id": "46530004",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3,
+            "name": "Otogi 2: Immortal Warriors"
+        }
+    ]
+}

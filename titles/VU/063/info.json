@@ -1,0 +1,18 @@
+{
+    "name": "Scarface: The World Is Yours",
+    "title_id": "5655003f",
+    "releases": [
+        {
+            "title_id": "5655003f",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5655003f",
+            "region": "Australia",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

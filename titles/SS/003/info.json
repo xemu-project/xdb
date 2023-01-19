@@ -1,0 +1,36 @@
+{
+    "name": "Outlaw Volleyball",
+    "title_id": "53530003",
+    "releases": [
+        {
+            "title_id": "53530003",
+            "region": "Korea",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "53530003",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "53530003",
+            "region": "Japan",
+            "edition": "World Collection",
+            "disc_id": 5
+        },
+        {
+            "title_id": "53530003",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 50
+        },
+        {
+            "title_id": "53530007",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

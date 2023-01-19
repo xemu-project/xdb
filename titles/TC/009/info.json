@@ -1,0 +1,18 @@
+{
+    "name": "Gungriffon: Allied Strike",
+    "title_id": "54430009",
+    "releases": [
+        {
+            "title_id": "54430009",
+            "region": "USA, Japan",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5443000c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

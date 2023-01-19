@@ -1,0 +1,36 @@
+{
+    "name": "Conker: Live & Reloaded",
+    "title_id": "4d530051",
+    "releases": [
+        {
+            "title_id": "4d530051",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d530051",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4d530051",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d530051",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 50
+        },
+        {
+            "title_id": "4d530051",
+            "region": "USA, Europe",
+            "edition": "Demo",
+            "disc_id": 70
+        }
+    ]
+}

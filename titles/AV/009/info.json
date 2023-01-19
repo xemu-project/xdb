@@ -1,0 +1,30 @@
+{
+    "name": "Rally Fusion: Race of Champions",
+    "title_id": "41560009",
+    "releases": [
+        {
+            "title_id": "41560009",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41560009",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "41560009",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "41560009",
+            "region": "Korea",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

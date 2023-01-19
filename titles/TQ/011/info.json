@@ -1,0 +1,18 @@
+{
+    "name": "Evil Dead: A Fistful of Boomstick",
+    "title_id": "5451000b",
+    "releases": [
+        {
+            "title_id": "5451000b",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5451000b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

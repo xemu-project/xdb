@@ -1,0 +1,24 @@
+{
+    "name": "Project Gotham Racing 2",
+    "title_id": "4d53004b",
+    "releases": [
+        {
+            "title_id": "4d53004b",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d53004b",
+            "region": "USA, Japan",
+            "edition": "Original, Platinum Hits, Platinum Collection",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4d530079",
+            "region": "USA",
+            "edition": "Demo: Dodge Magnum Edition",
+            "disc_id": 51
+        }
+    ]
+}

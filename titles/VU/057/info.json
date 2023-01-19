@@ -1,0 +1,18 @@
+{
+    "name": "The Incredible Hulk: Ultimate Destruction",
+    "title_id": "56550039",
+    "releases": [
+        {
+            "title_id": "56550039",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "56550039",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

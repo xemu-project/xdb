@@ -1,0 +1,18 @@
+{
+    "name": "Bruce Lee: Quest of the Dragon",
+    "title_id": "56550016",
+    "releases": [
+        {
+            "title_id": "56550016",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "56560002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

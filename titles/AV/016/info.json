@@ -1,0 +1,16 @@
+{
+    "name": "Return to Castle Wolfenstein: Tides of War",
+    "title_id": "41560010",
+    "releases": [
+        {
+            "title_id": "41560010",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41560010",
+            "region": "USA, Europe",
+            "edition": "Original, Classics, Platinum Hits",
+            "disc_id": 2
+        }
+    ]
+}

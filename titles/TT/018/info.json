@@ -1,0 +1,18 @@
+{
+    "name": "Close Combat: First to Fight: United States Marines",
+    "title_id": "54540012",
+    "releases": [
+        {
+            "title_id": "54540012",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "54540012",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

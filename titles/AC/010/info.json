@@ -1,0 +1,18 @@
+{
+    "name": "ATV: Quad Power Racing 2",
+    "title_id": "4143000a",
+    "releases": [
+        {
+            "title_id": "4143000a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4143000a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

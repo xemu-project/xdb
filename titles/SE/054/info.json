@@ -1,0 +1,24 @@
+{
+    "name": "OutRun 2",
+    "title_id": "53450036",
+    "releases": [
+        {
+            "title_id": "53450036",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "53450036",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "53450036",
+            "region": "Japan",
+            "edition": "Shokai Genteiban",
+            "disc_id": 5
+        }
+    ]
+}

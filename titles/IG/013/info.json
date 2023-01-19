@@ -1,0 +1,18 @@
+{
+    "name": "Taz: Wanted",
+    "title_id": "4947000d",
+    "releases": [
+        {
+            "title_id": "4947000d",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4947000d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

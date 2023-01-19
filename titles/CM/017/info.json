@@ -1,0 +1,36 @@
+{
+    "name": "TOCA Race Driver 2",
+    "title_id": "434d0011",
+    "releases": [
+        {
+            "title_id": "434d0011",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "434d0011",
+            "region": "USA",
+            "edition": "Bundled with Colin McRae Rally 04",
+            "disc_id": 2
+        },
+        {
+            "title_id": "434d0011",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "434d0011",
+            "region": "Europe",
+            "edition": "Classics",
+            "disc_id": 4
+        },
+        {
+            "title_id": "434d0011",
+            "region": "Australia",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

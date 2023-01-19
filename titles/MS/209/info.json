@@ -1,0 +1,36 @@
+{
+    "name": "Fable: The Lost Chapters",
+    "title_id": "4d5300d1",
+    "releases": [
+        {
+            "title_id": "4d5300d1",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d5300d1",
+            "region": "Europe",
+            "edition": "Classics",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d5300d1",
+            "region": "Italy",
+            "edition": "Classics",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d5300d1",
+            "region": "Germany",
+            "edition": "Classics",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4d5300d1",
+            "region": "Spain",
+            "edition": "Classics",
+            "disc_id": 7
+        }
+    ]
+}

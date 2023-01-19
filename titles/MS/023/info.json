@@ -1,0 +1,36 @@
+{
+    "name": "MechAssault",
+    "title_id": "4d530017",
+    "releases": [
+        {
+            "title_id": "4d530017",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d530017",
+            "region": "Korea",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d530017",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "4d530017",
+            "region": "USA",
+            "edition": "Platinum Hits, Bundled with Xbox Live Starter Kit",
+            "disc_id": 8
+        },
+        {
+            "title_id": "4d530017",
+            "region": "Japan",
+            "edition": "Taikenban",
+            "disc_id": 51
+        }
+    ]
+}

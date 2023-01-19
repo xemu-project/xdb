@@ -1,0 +1,18 @@
+{
+    "name": "Crazy Taxi 3",
+    "title_id": "49470023",
+    "releases": [
+        {
+            "title_id": "49470023",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "49470023",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

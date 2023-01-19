@@ -1,0 +1,18 @@
+{
+    "name": "MTV Music Generator 3",
+    "title_id": "434d0029",
+    "releases": [
+        {
+            "title_id": "434d0029",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "434d0029",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

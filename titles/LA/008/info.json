@@ -1,0 +1,24 @@
+{
+    "name": "Gladius",
+    "title_id": "4c410008",
+    "releases": [
+        {
+            "title_id": "4c410008",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4c410008",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4c410008",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 8
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Burnout 3: Takedown",
+    "title_id": "4541005b",
+    "releases": [
+        {
+            "title_id": "4541005b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541005b",
+            "region": "Europe",
+            "edition": "Original, Bundled with Xbox",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541005b",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541005b",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

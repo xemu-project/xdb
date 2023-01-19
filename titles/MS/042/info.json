@@ -1,0 +1,24 @@
+{
+    "name": "Midtown Madness 3",
+    "title_id": "4d53002a",
+    "releases": [
+        {
+            "title_id": "4d53002a",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d53002a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d53002a",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Maximum Chase",
+    "title_id": "4d53002e",
+    "releases": [
+        {
+            "title_id": "4d53002e",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d53002e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

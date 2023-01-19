@@ -1,0 +1,24 @@
+{
+    "name": "Forza Motorsport",
+    "title_id": "4d53006e",
+    "releases": [
+        {
+            "title_id": "4d53006e",
+            "region": "World",
+            "edition": "Original, Classics",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d53006e",
+            "region": "USA, Europe",
+            "edition": "Demo",
+            "disc_id": 70
+        },
+        {
+            "title_id": "584c0014",
+            "region": "USA",
+            "edition": "Bundled with Xbox",
+            "disc_id": 70
+        }
+    ]
+}

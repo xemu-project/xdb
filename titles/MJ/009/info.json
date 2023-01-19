@@ -1,0 +1,18 @@
+{
+    "name": "Advent Rising",
+    "title_id": "4d4a0009",
+    "releases": [
+        {
+            "title_id": "4d4a0009",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d4a0009",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "007: From Russia with Love",
+    "title_id": "45410079",
+    "releases": [
+        {
+            "title_id": "45410079",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410079",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

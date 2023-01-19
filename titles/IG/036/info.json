@@ -1,0 +1,18 @@
+{
+    "name": "Unreal Championship",
+    "title_id": "49470024",
+    "releases": [
+        {
+            "title_id": "49470024",
+            "region": "Japan, Asia",
+            "edition": "Original, World Collection",
+            "disc_id": 4
+        },
+        {
+            "title_id": "49470024",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

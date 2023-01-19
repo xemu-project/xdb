@@ -1,0 +1,36 @@
+{
+    "name": "GoldenEye: Rogue Agent",
+    "title_id": "4541005d",
+    "releases": [
+        {
+            "title_id": "4541005d",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541005d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541005d",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4541005d",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541005d",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

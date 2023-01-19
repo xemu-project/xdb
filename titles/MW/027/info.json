@@ -1,0 +1,18 @@
+{
+    "name": "SpyHunter 2",
+    "title_id": "4d57001b",
+    "releases": [
+        {
+            "title_id": "4d57001b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d57001b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

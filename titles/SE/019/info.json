@@ -1,0 +1,18 @@
+{
+    "name": "NBA 2K3",
+    "title_id": "53450013",
+    "releases": [
+        {
+            "title_id": "53450013",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "5345001e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

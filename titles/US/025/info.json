@@ -1,0 +1,18 @@
+{
+    "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "title_id": "55530019",
+    "releases": [
+        {
+            "title_id": "55530019",
+            "region": "USA, Europe",
+            "edition": "Original, Platinum Hits",
+            "disc_id": 2
+        },
+        {
+            "title_id": "55530019",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

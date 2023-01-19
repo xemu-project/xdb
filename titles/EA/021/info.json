@@ -1,0 +1,18 @@
+{
+    "name": "Pirates: The Legend of Black Kat",
+    "title_id": "45410015",
+    "releases": [
+        {
+            "title_id": "45410015",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410015",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

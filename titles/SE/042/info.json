@@ -1,0 +1,18 @@
+{
+    "name": "Worms 3D",
+    "title_id": "5345002a",
+    "releases": [
+        {
+            "title_id": "5345002a",
+            "region": "Europe",
+            "edition": "Original, Classics",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5345002a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

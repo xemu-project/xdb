@@ -1,0 +1,18 @@
+{
+    "name": "Monopoly Party",
+    "title_id": "4947000f",
+    "releases": [
+        {
+            "title_id": "4947000f",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4947000f",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

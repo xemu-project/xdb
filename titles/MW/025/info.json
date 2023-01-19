@@ -1,0 +1,30 @@
+{
+    "name": "Mortal Kombat: Deception",
+    "title_id": "4d570019",
+    "releases": [
+        {
+            "title_id": "4d570019",
+            "region": "USA",
+            "edition": "Original, Kollector's Edition",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4d570019",
+            "region": "USA",
+            "edition": "Kollector's Edition",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4d570023",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d570023",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

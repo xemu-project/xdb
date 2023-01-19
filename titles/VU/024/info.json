@@ -1,0 +1,24 @@
+{
+    "name": "Mace Griffin: Bounty Hunter",
+    "title_id": "56550018",
+    "releases": [
+        {
+            "title_id": "56550018",
+            "region": "USA, Asia",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "56560011",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "56560011",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

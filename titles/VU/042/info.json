@@ -1,0 +1,18 @@
+{
+    "name": "Barbie Horse Adventures: Wild Horse Rescue",
+    "title_id": "5655002a",
+    "releases": [
+        {
+            "title_id": "5655002a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5655002a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

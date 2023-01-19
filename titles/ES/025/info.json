@@ -1,0 +1,23 @@
+{
+    "name": "Project: Snowblind",
+    "title_id": "45530019",
+    "releases": [
+        {
+            "title_id": "45530019",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45530019",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5a430265",
+            "region": "USA",
+            "edition": "Beta"
+        }
+    ]
+}

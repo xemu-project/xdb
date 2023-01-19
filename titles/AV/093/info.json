@@ -1,0 +1,24 @@
+{
+    "name": "Call of Duty 3",
+    "title_id": "4156005d",
+    "releases": [
+        {
+            "title_id": "4156005d",
+            "region": "USA, Europe",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4156005d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4156005d",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

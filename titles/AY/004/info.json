@@ -1,0 +1,18 @@
+{
+    "name": "Dreamfall: The Longest Journey",
+    "title_id": "41590004",
+    "releases": [
+        {
+            "title_id": "41590004",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d580001",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Gun Metal",
+    "title_id": "4d4a0003",
+    "releases": [
+        {
+            "title_id": "4d4a0003",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "52410008",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}
+    

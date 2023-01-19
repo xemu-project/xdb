@@ -1,0 +1,30 @@
+{
+    "name": "Call of Duty: Finest Hour",
+    "title_id": "4156002a",
+    "releases": [
+        {
+            "title_id": "4156002a",
+            "region": "USA, Europe",
+            "edition": "Original, Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4156002a",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4156002a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4156002a",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

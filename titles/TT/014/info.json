@@ -1,0 +1,30 @@
+{
+    "name": "Grand Theft Auto III",
+    "title_id": "5454000e",
+    "releases": [
+        {
+            "title_id": "5454000e",
+            "region": "Europe",
+            "edition": "Double Pack",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5454000e",
+            "region": "USA",
+            "edition": "Double Pack, Grand Theft Auto: The Trilogy",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5454000e",
+            "region": "Germany",
+            "edition": "Doppelpack",
+            "disc_id": 4
+        },
+        {
+            "title_id": "5454000e",
+            "region": "Japan",
+            "edition": "Double Pack",
+            "disc_id": 6
+        }
+    ]
+}

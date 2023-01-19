@@ -1,0 +1,36 @@
+{
+    "name": "Jade Empire",
+    "title_id": "4d53006d",
+    "releases": [
+        {
+            "title_id": "4d53006d",
+            "region": "USA, Europe",
+            "edition": "Original, Limited Edition",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d53006d",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4d53006d",
+            "region": "France",
+            "edition": "Limited Edition",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4d53006d",
+            "region": "Korea",
+            "edition": "Original, Limited Edition",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d53006d",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

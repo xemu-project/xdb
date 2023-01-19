@@ -1,0 +1,18 @@
+{
+    "name": "Burnout",
+    "title_id": "41430006",
+    "releases": [
+        {
+            "title_id": "41430006",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "41430006",
+            "region": "Europe",
+            "edition": "Classics, ESC Escape 03 Xbox Charity Pack",
+            "disc_id": 2
+        }
+    ]
+}

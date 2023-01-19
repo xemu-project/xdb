@@ -1,0 +1,24 @@
+{
+    "name": "Def Jam: Fight for NY",
+    "title_id": "45410049",
+    "releases": [
+        {
+            "title_id": "45410049",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410049",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410067",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

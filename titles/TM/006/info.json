@@ -1,0 +1,30 @@
+{
+    "name": "Outlaw Golf",
+    "title_id": "544d0006",
+    "releases": [
+        {
+            "title_id": "544d0006",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "544d0006",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "56550010",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "56550010",
+            "region": "Japan",
+            "edition": "World Collection",
+            "disc_id": 3
+        }
+    ]
+}

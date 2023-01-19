@@ -1,0 +1,18 @@
+{
+    "name": "Counter-Strike",
+    "title_id": "4d530036",
+    "releases": [
+        {
+            "title_id": "4d530036",
+            "region": "USA",
+            "edition": "Original, Platinum Hits",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4d530036",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

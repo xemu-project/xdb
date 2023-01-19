@@ -1,0 +1,48 @@
+{
+    "name": "Grand Theft Auto: Vice City",
+    "title_id": "5454000f",
+    "releases": [
+        {
+            "title_id": "5454000f",
+            "region": "USA",
+            "edition": "Double Pack",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5454000f",
+            "region": "Europe",
+            "edition": "Double Pack",
+            "disc_id": 3
+        },
+        {
+            "title_id": "5454000f",
+            "region": "Germany",
+            "edition": "Doppelpack",
+            "disc_id": 4
+        },
+        {
+            "title_id": "54540073",
+            "region": "Japan",
+            "edition": "Double Pack",
+            "disc_id": 2
+        },
+        {
+            "title_id": "54540073",
+            "region": "USA",
+            "edition": "Grand Theft Auto: The Trilogy",
+            "disc_id": 4
+        },
+        {
+            "title_id": "54540073",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "54540073",
+            "region": "Europe",
+            "edition": "Double Pack",
+            "disc_id": 7
+        }
+    ]
+}

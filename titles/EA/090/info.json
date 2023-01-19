@@ -1,0 +1,24 @@
+{
+    "name": "Need for Speed: Underground 2",
+    "title_id": "4541005a",
+    "releases": [
+        {
+            "title_id": "4541005a",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541006f",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "45410071",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

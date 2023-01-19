@@ -1,0 +1,36 @@
+{
+    "name": "Tom Clancy's Ghost Recon",
+    "title_id": "55530006",
+    "releases": [
+        {
+            "title_id": "55530006",
+            "region": "USA",
+            "edition": "Original, Platinum Hits, Tom Clancy's Classic Trilogy",
+            "disc_id": 1
+        },
+        {
+            "title_id": "55530006",
+            "region": "Europe",
+            "edition": "Classics",
+            "disc_id": 2
+        },
+        {
+            "title_id": "55530006",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "55530006",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "5553000a",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

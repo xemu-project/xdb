@@ -1,0 +1,36 @@
+{
+    "name": "Shrek 2",
+    "title_id": "41560037",
+    "releases": [
+        {
+            "title_id": "41560037",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "41560037",
+            "region": "Germany",
+            "edition": "Classics",
+            "disc_id": 4
+        },
+        {
+            "title_id": "41560037",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "41560037",
+            "region": "Japan",
+            "edition": "World Collection",
+            "disc_id": 7
+        },
+        {
+            "title_id": "41560037",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 8
+        }
+    ]
+}

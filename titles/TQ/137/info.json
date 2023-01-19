@@ -1,0 +1,18 @@
+{
+    "name": "Hot Wheels: Stunt Track Challenge",
+    "title_id": "54510089",
+    "releases": [
+        {
+            "title_id": "54510089",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "54510089",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

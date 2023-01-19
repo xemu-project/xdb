@@ -1,0 +1,24 @@
+{
+    "name": "Spider-Man 2",
+    "title_id": "4156002b",
+    "releases": [
+        {
+            "title_id": "4156002b",
+            "region": "Italy",
+            "edition": "Classics",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4156002b",
+            "region": "Europe, Asia",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4156002b",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

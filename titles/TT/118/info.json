@@ -1,0 +1,18 @@
+{
+    "name": "Outlaw Tennis",
+    "title_id": "54540076",
+    "releases": [
+        {
+            "title_id": "54540076",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "54540076",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

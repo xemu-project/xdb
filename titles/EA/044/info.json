@@ -1,0 +1,30 @@
+{
+    "name": "Dead to Rights",
+    "title_id": "4541002c",
+    "releases": [
+        {
+            "title_id": "4541002c",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4e4d0005",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4e4d0005",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4e4d0005",
+            "region": "USA",
+            "edition": "Demo",
+            "disc_id": 50
+        }
+    ]
+}

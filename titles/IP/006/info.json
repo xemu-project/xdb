@@ -1,0 +1,18 @@
+{
+    "name": "RLH: Run Like Hell",
+    "title_id": "49500006",
+    "releases": [
+        {
+            "title_id": "49500006",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "49500006",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}

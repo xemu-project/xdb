@@ -1,0 +1,24 @@
+{
+    "name": "Crimson Sea",
+    "title_id": "4b4f0002",
+    "releases": [
+        {
+            "title_id": "4b4f0002",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4b4f0002",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4b4f0002",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 5
+        }
+    ]
+}

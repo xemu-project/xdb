@@ -1,0 +1,18 @@
+{
+    "name": "Outlaw Golf: 9 Holes of X-Mas",
+    "title_id": "5655001b",
+    "releases": [
+        {
+            "title_id": "5655001b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 50
+        },
+        {
+            "title_id": "5655801b",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 0
+        }
+    ]
+}

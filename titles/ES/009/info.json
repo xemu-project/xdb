@@ -1,0 +1,78 @@
+{
+    "name": "Hitman 2: Silent Assassin",
+    "title_id": "45530009",
+    "releases": [
+        {
+            "title_id": "45530009",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "45530009",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 8
+        },
+        {
+            "title_id": "45530009",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 9
+        },
+        {
+            "title_id": "45530009",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 10
+        },
+        {
+            "title_id": "45530009",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 11
+        },
+        {
+            "title_id": "45530009",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 12
+        },
+        {
+            "title_id": "45530009",
+            "region": "Europe",
+            "edition": "Original, Classics, ESC Escape 03 Xbox Charity Pack",
+            "disc_id": 14
+        },
+        {
+            "title_id": "45530009",
+            "region": "France",
+            "edition": "Classics",
+            "disc_id": 15
+        },
+        {
+            "title_id": "45530009",
+            "region": "Germany",
+            "edition": "Classics",
+            "disc_id": 16
+        },
+        {
+            "title_id": "45530009",
+            "region": "Italy",
+            "edition": "Classics",
+            "disc_id": 17
+        },
+        {
+            "title_id": "45530009",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 18
+        },
+        {
+            "title_id": "45530009",
+            "region": "USA",
+            "edition": "Platinum Hits",
+            "disc_id": 31
+        }
+    ]
+}

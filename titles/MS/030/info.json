@@ -1,0 +1,24 @@
+{
+    "name": "Brute Force",
+    "title_id": "4d53001e",
+    "releases": [
+        {
+            "title_id": "4d53001e",
+            "region": "Japan, Asia",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4d53001e",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4d53001e",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 7
+        }
+    ]
+}

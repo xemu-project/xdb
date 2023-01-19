@@ -1,0 +1,42 @@
+{
+    "name": "The Godfather",
+    "title_id": "4541007d",
+    "releases": [
+        {
+            "title_id": "4541007d",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "4541007d",
+            "region": "USA",
+            "edition": "Limited Edition",
+            "disc_id": 2
+        },
+        {
+            "title_id": "4541007d",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4541007d",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4541007d",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4541007d",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 6
+        }
+    ]
+}

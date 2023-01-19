@@ -1,0 +1,18 @@
+{
+    "name": "Harry Potter and the Philosopher's Stone",
+    "title_id": "45410037",
+    "releases": [
+        {
+            "title_id": "45410037",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "45410037",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        }
+    ]
+}

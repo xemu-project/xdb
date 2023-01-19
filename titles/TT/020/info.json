@@ -1,0 +1,18 @@
+{
+    "name": "Army Men: Sarge's War",
+    "title_id": "54540014",
+    "releases": [
+        {
+            "title_id": "54540014",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 1
+        },
+        {
+            "title_id": "54540014",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 2
+        }
+    ]
+}

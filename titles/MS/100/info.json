@@ -1,0 +1,48 @@
+{
+    "name": "Halo 2",
+    "title_id": "4d530064",
+    "releases": [
+        {
+            "title_id": "4d530064",
+            "region": "USA, Europe",
+            "edition": "Original, Limited Collector's Edition",
+            "disc_id": 3
+        },
+        {
+            "title_id": "4d530064",
+            "region": "France",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "4d530064",
+            "region": "Germany",
+            "edition": "Original",
+            "disc_id": 5
+        },
+        {
+            "title_id": "4d530064",
+            "region": "Italy",
+            "edition": "Original",
+            "disc_id": 6
+        },
+        {
+            "title_id": "4d530064",
+            "region": "Spain",
+            "edition": "Original",
+            "disc_id": 7
+        },
+        {
+            "title_id": "4d530064",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 9
+        },
+        {
+            "title_id": "4d530064",
+            "region": "Japan",
+            "edition": "Limited Edition, Halo History Pack",
+            "disc_id": 10
+        }
+    ]
+}

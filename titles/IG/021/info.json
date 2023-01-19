@@ -1,0 +1,24 @@
+{
+    "name": "Racing Evoluzione",
+    "title_id": "49470015",
+    "releases": [
+        {
+            "title_id": "49470015",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        },
+        {
+            "title_id": "49470015",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 4
+        },
+        {
+            "title_id": "49470015",
+            "region": "Asia",
+            "edition": "Original",
+            "disc_id": 8
+        }
+    ]
+}

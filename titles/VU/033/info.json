@@ -1,0 +1,18 @@
+{
+    "name": "Jurassic Park: Operation Genesis",
+    "title_id": "56550021",
+    "releases": [
+        {
+            "title_id": "56550021",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "5656000a",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 1
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "SNK vs. Capcom: SVC Chaos",
+    "title_id": "534e0001",
+    "releases": [
+        {
+            "title_id": "534e0001",
+            "region": "USA",
+            "edition": "Original",
+            "disc_id": 2
+        },
+        {
+            "title_id": "534e0001",
+            "region": "Europe",
+            "edition": "Original",
+            "disc_id": 3
+        }
+    ]
+}
