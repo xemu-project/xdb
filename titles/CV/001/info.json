@@ -7,6 +7,13 @@
             "region": "USA",
             "edition": "Original",
             "disc_id": 1
+        },
+        {
+            "name": "Zan Kabuki",
+            "title_id": "47450001",
+            "region": "Japan",
+            "edition": "Original",
+            "disc_id": 1
         }
     ]
 }
